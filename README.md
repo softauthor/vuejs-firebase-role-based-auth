@@ -1,3 +1,5 @@
+# Vue.js + Firebase: Role-Based Authentication / Authorization in a nutshell
+
 In this article, you’re going to learn how to set user roles using Auth Custom Claims and store user data to the Cloud Firestore when a new Firebase user account is created. 
 
 Then, I will be showing you how to guard vue routes based on user role when signing in. 
